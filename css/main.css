@@ -67,6 +67,47 @@ body {
   height: 100%;
 }
 
+.wallet-info-page {
+  padding: 50px 8px;
+}
+
+.wallet-info-page__text {
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 500;
+  padding-bottom: 16px;
+}
+
+.wallet-info-page {
+  color: white;
+}
+
+.account-list {
+  margin-bottom: 10px;
+}
+
+.account-item .info {
+  margin-bottom: 15px;
+}
+
+.account-item__content {
+  padding-left: 10px;
+  color: #747474;
+}
+
+.boxed-container {
+  display: grid;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-top: 81px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: auto;
+  max-width: 618px;
+  height: 70vh;
+}
+
 body {
   font-family: 'Mulish', sans-serif !important;
   font-weight: 400 !important;
@@ -85,7 +126,9 @@ button {
 }
 
 
-
+.cls-1 {
+  fill: #182026;
+}
 
 button:focus {
   outline: none;
