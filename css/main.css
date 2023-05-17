@@ -7182,6 +7182,12 @@ ul {
   margin: 6px 2px 6px 8px;
 }
 
+.wallet-logo-header {
+  width: 32px;
+  height: 32px;
+  margin: 6px 2px 6px 8px;
+}
+
 .wallet-item .wallet-title {
   font-weight: 600;
   flex: 1 1 300px;
